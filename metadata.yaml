@@ -1,0 +1,30 @@
+_repo: Daughter-of-the-Night_32822
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32822-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shaver, Richard S.
+    alias: Lohrman, Paul
+    birthdate: 1907
+    deathdate: 1975
+    gutenberg_agent_id: '35925'
+    url: http://www.gutenberg.org/2009/agents/35925
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Sharpe_Shaver
+description: The evil magic of the Goddess Diana turned men to stone. Would the power
+  of the strange Eos be strong enough to turn them back to living men?
+gutenberg_issued: '2010-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PS'
+title: Daughter of the Night
+url: http://www.gutenberg.org/ebooks/32822
